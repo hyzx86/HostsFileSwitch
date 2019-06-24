@@ -1,3 +1,3 @@
 # HostsFileSwitch
-Quicly manage your hosts file
+Quicly manage your hosts file.
 
