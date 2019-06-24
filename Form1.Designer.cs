@@ -117,18 +117,18 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(12, 177);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(41, 12);
+            this.label1.Size = new System.Drawing.Size(89, 12);
             this.label1.TabIndex = 7;
-            this.label1.Text = "已启用";
+            this.label1.Text = "已启用 Enabled";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(579, 177);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(41, 12);
+            this.label2.Size = new System.Drawing.Size(95, 12);
             this.label2.TabIndex = 8;
-            this.label2.Text = "已禁用";
+            this.label2.Text = "已禁用 Disabled";
             // 
             // button4
             // 
