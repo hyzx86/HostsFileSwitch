@@ -1,5 +1,6 @@
-# HostsFileSwitch
-Quicly manage your hosts file.
+# Windows Hosts File Switch
+
+Quickly manage your hosts file.
 
 Download: https://github.com/hyzx86/HostsFileSwitch/releases
 
